@@ -1,0 +1,4 @@
+Naver,http://naver.com/,2021-01-02_15:49,portal,Home
+Daum,http://www.daum.net/,2021-01-02_15:49,portal,
+CAU,http://www.cau.ac.kr,2021-01-02_15:49,,
+EIRIC,http://eiric.or.kr,2021-01-02_15:49,,
