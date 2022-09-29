@@ -54,7 +54,7 @@ public class BookmarkManager extends JFrame implements MouseListener{
 
         //table에 eventListener 붙이기
         table.addMouseListener(this);
-        setLayout(new BorderLayout());
+
         add(buttonSetPanel, BorderLayout.EAST);
         add(bookmarkListPanel, BorderLayout.CENTER);
     }
